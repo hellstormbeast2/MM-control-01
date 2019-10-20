@@ -22,4 +22,4 @@ deploy:
     - MM-control-01_with_bootloader.hex
   skip_cleanup: true
   on:
-    tags: true
+    tags: false
