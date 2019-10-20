@@ -77,8 +77,8 @@
 // currents
 #define CURRENT_HOLDING_STEALTH {1, 7, 22}  // {?,?,570 mA}
 #define CURRENT_HOLDING_NORMAL {1, 10, 22}  // {?,?,570 mA}
-#define CURRENT_RUNNING_STEALTH {35, 35, 45} // {?,?,910 mA}
-#define CURRENT_RUNNING_NORMAL {30, 35, 47} // {?,?,910 mA}
+#define CURRENT_RUNNING_STEALTH {35, 35, 38} // {?,?,910 mA}
+#define CURRENT_RUNNING_NORMAL {30, 35, 40} // {?,?,910 mA}
 #define CURRENT_HOMING {1, 35, 30}
 
 //mode
