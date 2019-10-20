@@ -16,7 +16,7 @@ script:
   - doxygen && cd ..
 deploy:
   provider: releases
-  api_key: 7a74207c56b6beb0f6b139251de31f7246af4871
+  api_key: 9894e0033650356f5070a316fd60f75e6d83fc78
   file:
     - ../MM-control-01-build/MM-control-01.hex
     - MM-control-01_with_bootloader.hex
